@@ -1,6 +1,6 @@
 # Hi, I'm Anh 👋
 ---
-## :woman_technologist: About Me :
+## :woman_technologist: About Me
 Software Engineering student interested in full-stack web app and mobile app development
 - :school: Computer Science + Mathematics student @ [**Mount Holyoke College**][mhc]
 - :office: Technical Support Assistant @ [**Mount Holyoke College**][mhc]
