@@ -7,6 +7,7 @@ Software Engineering student interested in full-stack web app and mobile app dev
 - :office: Computer Science Teaching Assistant @ [**Mount Holyoke College**][mhc]
 - :office: Software Engineer Intern @ [**Dandilyonn**][dandilyonn]
 - :office: AI Software Engineer Intern @ [**NTQ Solutions**][ntq]
+
   [mhc]: https://www.mtholyoke.edu/
   [dandilyonn]: https://www.linkedin.com/company/dandilyonn/
   [ntq]: https://www.linkedin.com/company/ntq-solution-jsc/
