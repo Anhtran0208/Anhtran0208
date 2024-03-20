@@ -55,8 +55,9 @@ Software Engineering student interested in full-stack web app and mobile app dev
 </div>
 
 ## :fire: Github Contribution
-<p> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Anhtran0208&theme=dark&background=000000)](https://git.io/streak-stats) </p>
-<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anhtran0208&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anhtran0208&show_icons=true&locale=en&layout=compact" alt="anhtran" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anhtran0208&show_icons=true&locale=en" alt="anhtran" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anhtran0208&" alt="anhtran" /></p>
 
