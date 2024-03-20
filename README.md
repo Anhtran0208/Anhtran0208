@@ -68,10 +68,10 @@ ______________________________________________________________
 </p>
 <div>
 <a href="mailto:anhtrannd2004@gmail.com">
-    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+    <img height="32" align="left" alt="Mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/anhngtran/">
-    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+    <img height="32" align="left" alt="LinkedIn" src="https://www.pngall.com/wp-content/uploads/2016/07/Linkedin-Download-PNG.png" />
 </a>
 </div>
