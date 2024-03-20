@@ -1,13 +1,4 @@
 # Hi, I'm Anh 👋
-<div>
-  <a href="https://www.linkedin.com/in/anhngtran/">
-        <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-
-  </a>
-  <a href="mailto:anhtrannd2004@gmail.com">
-  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-  </a>
-</div>
 ---
 ## :woman_technologist: About Me :
 Software Engineering student interested in full-stack web app and mobile app development
@@ -68,3 +59,18 @@ Software Engineering student interested in full-stack web app and mobile app dev
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anhtran0208&" alt="anhtran" /></p>
 
+______________________________________________________________
+
+<p align="center">
+    <b>Looking for a software engineering intern? Connect with me</a>
+    </b>
+</p>
+<div>
+<a href="mailto:anhtrannd2004@gmail.com">
+    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/anhngtran/">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+</div>
