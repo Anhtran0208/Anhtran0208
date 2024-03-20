@@ -1,5 +1,13 @@
 # Hi, I'm Anh 👋
+<div id="badges">
+  <a href="https://www.linkedin.com/in/anhngtran/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:anhtrannd2004@gmail.com">
+        <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 
+  </a>
+</div>
 ---
 ## :woman_technologist: About Me :
 Software Engineering student interested in full-stack web app and mobile app development
@@ -8,7 +16,6 @@ Software Engineering student interested in full-stack web app and mobile app dev
 - :office: Computer Science Teaching Assistant @ [**Mount Holyoke College**][mhc]
 - :office: Software Engineer Intern @ [**Dandilyonn**][dandilyonn]
 - :office: AI Software Engineer Intern @ [**NTQ Solutions**][ntq]
-
   [mhc]: https://www.mtholyoke.edu/
   [dandilyonn]: https://www.linkedin.com/company/dandilyonn/
   [ntq]: https://www.linkedin.com/company/ntq-solution-jsc/
