@@ -1,11 +1,11 @@
 # Hi, I'm Anh 👋
-<div id="badges">
+<div>
   <a href="https://www.linkedin.com/in/anhngtran/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+
   </a>
   <a href="mailto:anhtrannd2004@gmail.com">
-        <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-
+  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
   </a>
 </div>
 ---
