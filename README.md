@@ -5,7 +5,6 @@ Software Engineering student interested in full-stack web app and mobile app dev
 - :school: Computer Science + Mathematics student @ [**Mount Holyoke College**][mhc]
 - :office: Technical Support Assistant @ [**Mount Holyoke College**][mhc]
 - :office: Computer Science Teaching Assistant @ [**Mount Holyoke College**][mhc]
-- :office: Software Engineer Intern @ [**Dandilyonn**][dandilyonn]
 - :office: AI Software Engineer Intern @ [**NTQ Solution JSC**][ntq]
 
   [mhc]: https://www.mtholyoke.edu/
