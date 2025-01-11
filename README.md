@@ -84,21 +84,16 @@ ______________________________________________________________
 </a>
 </div>
 <style>
-  a {
-    outline: none;
-    text-decoration: none;
-  }
+ div a {
+  text-decoration: none; /* Remove the underline */
+  outline: none;
+}
 
-  a img {
-    border: none;
-    vertical-align: middle;
-    display: inline-block;
-  }
+div {
+  display: flex;
+  gap: 10px; /* Adjust spacing */
+  align-items: center;
+}
 
-  div {
-    display: flex;
-    gap: 10px; /* Controls spacing between icons */
-    align-items: center;
-  }
 </style>
 
