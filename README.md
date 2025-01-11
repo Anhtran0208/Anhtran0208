@@ -33,8 +33,8 @@ I am CS junior student @[**Mount Holyoke College**][mhc]. I began learning the v
 
 <h3 align="left">Libraries and Frameworks:</h3>
 <div>
-<a href="https://nodejs.org/en"  rel="noreferrer" style="text-decoration: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-<a href="https://react.dev/"  rel="noreferrer" style="text-decoration: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+<a href="https://nodejs.org/en" rel="noreferrer" style="text-decoration: none; border: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+<a href="https://react.dev/" rel="noreferrer" style="text-decoration: none; border: none;"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express" width="40" height="40"/>
 <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>
