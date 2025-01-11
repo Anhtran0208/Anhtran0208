@@ -1,15 +1,23 @@
 # Hi, I'm Anh 👋
 ---
 ## :woman_technologist: About Me
-Software Engineering student interested in full-stack web app and mobile app development
-- :school: Computer Science + Mathematics student @ [**Mount Holyoke College**][mhc]
-- :office: Technical Support Assistant @ [**Mount Holyoke College**][mhc]
-- :office: Computer Science Teaching Assistant @ [**Mount Holyoke College**][mhc]
-- :office: AI Software Engineer Intern @ [**NTQ Solution JSC**][ntq]
+I am CS junior student @ [**Mount Holyoke College**][mhc]. I began learning the very first line of code during the first winter break in 2022 by self-studying an online course from Udemy. After 5 months, I successfully landed 2 SWE internships in my freshman year. Although they are unpaid, I learned a lot and they helped me know what I will be doing and what I want to do with CS degree.
+
+## :office: Work experience 
+### :school: On-campus jobs 
+- :office: Technical Support Assistant @ [**Mount Holyoke College**] [mhc]
+- :office: Mathematics Teaching Assistant @ [**Mount Holyoke College**] [mhc] - Courses: Discrete Math (Fall 2024), Intro to Proof (Spring 2024)
+- :office: Computer Science Teaching Assistant @ [**Mount Holyoke College**] [mhc] - Course: Data Structures (Fall 2023, Spring 2024)
+### :computer: Internships 
+- :smile_cat: Frontend Engineer Intern @ [**ENSCO Inc**] [ensco] (Summer 2024)
+- :smile_cat: Undergraduate Research Assistant @ [**Mount Holyoke College**] [mhc] (Summer 2024)
+- :smile_cat: Software Engineer Intern @[**Dandilyonn**] [dandilyonn] (Summer 2023)
+- :smile_cat: AI Software Engineer Intern @[**NTQ Solution JSC**] [ntq] (Summer 2023)
 
   [mhc]: https://www.mtholyoke.edu/
   [dandilyonn]: https://www.linkedin.com/company/dandilyonn/
   [ntq]: https://www.linkedin.com/company/ntq-solution-jsc/
+  [ensco]: https://www.linkedin.com/company/ensco-inc/
 ---
 ## :computer:	Skills
 <h3 align="left">Languages:</h3>
