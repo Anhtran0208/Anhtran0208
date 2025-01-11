@@ -6,8 +6,8 @@ I am CS junior student @[**Mount Holyoke College**][mhc]. I began learning the v
 ## :office: Work experience 
 ### :school: On-campus jobs 
 - 😽 Technical Support Assistant @[**Mount Holyoke College**][mhc]
-- 😽: Mathematics Teaching Assistant @[**Mount Holyoke College**][mhc] - Courses: Discrete Math (Fall 2024), Intro to Proof (Spring 2024)
-- 😽: Computer Science Teaching Assistant @[**Mount Holyoke College**][mhc] - Course: Data Structures (Fall 2023, Spring 2024)
+- 😽 Mathematics Teaching Assistant @[**Mount Holyoke College**][mhc] - Courses: Discrete Math (Fall 2024), Intro to Proof (Spring 2024)
+- 😽 Computer Science Teaching Assistant @[**Mount Holyoke College**][mhc] - Course: Data Structures (Fall 2023, Spring 2024)
 ### :computer: Internships 
 - :smile_cat: Frontend Engineer Intern @[**ENSCO Inc**][ensco] (Summer 2024)
 - :smile_cat: Undergraduate Research Assistant @[**Mount Holyoke College**][mhc] (Summer 2024)
