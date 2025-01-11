@@ -87,4 +87,9 @@ ______________________________________________________________
   a {
     margin-right: 10px; /* Adjust spacing as needed */
   }
+  a img {
+  border: none;
+  text-decoration: none;
+}
+
 </style>
