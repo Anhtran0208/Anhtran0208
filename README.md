@@ -54,8 +54,8 @@ I am CS junior student @[**Mount Holyoke College**][mhc]. I began learning the v
 
 <h3 align="left">Tools:</h3>
 <div>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>;
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>;
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="40" height="40"/>
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" title="Playwright" alt="Playwright" width="40" height="40"/>
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>
@@ -85,7 +85,9 @@ ______________________________________________________________
 </div>
 <style>
   a {
-    margin-right: 10px; /* Adjust spacing as needed */
+    margin-right: 10px;
+    text-decoration: none;
+
   }
   a img {
   border: none;
