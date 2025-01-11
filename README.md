@@ -5,14 +5,14 @@ I am CS junior student @ [**Mount Holyoke College**][mhc]. I began learning the 
 
 ## :office: Work experience 
 ### :school: On-campus jobs 
-- :office: Technical Support Assistant @ [**Mount Holyoke College**] [mhc]
-- :office: Mathematics Teaching Assistant @ [**Mount Holyoke College**] [mhc] - Courses: Discrete Math (Fall 2024), Intro to Proof (Spring 2024)
-- :office: Computer Science Teaching Assistant @ [**Mount Holyoke College**] [mhc] - Course: Data Structures (Fall 2023, Spring 2024)
+- :office: Technical Support Assistant @ [**Mount Holyoke College**][mhc]
+- :office: Mathematics Teaching Assistant @ [**Mount Holyoke College**][mhc] - Courses: Discrete Math (Fall 2024), Intro to Proof (Spring 2024)
+- :office: Computer Science Teaching Assistant @ [**Mount Holyoke College**][mhc] - Course: Data Structures (Fall 2023, Spring 2024)
 ### :computer: Internships 
-- :smile_cat: Frontend Engineer Intern @ [**ENSCO Inc**] [ensco] (Summer 2024)
-- :smile_cat: Undergraduate Research Assistant @ [**Mount Holyoke College**] [mhc] (Summer 2024)
-- :smile_cat: Software Engineer Intern @[**Dandilyonn**] [dandilyonn] (Summer 2023)
-- :smile_cat: AI Software Engineer Intern @[**NTQ Solution JSC**] [ntq] (Summer 2023)
+- :smile_cat: Frontend Engineer Intern @ [**ENSCO Inc**][ensco] (Summer 2024)
+- :smile_cat: Undergraduate Research Assistant @ [**Mount Holyoke College**][mhc] (Summer 2024)
+- :smile_cat: Software Engineer Intern @[**Dandilyonn**][dandilyonn] (Summer 2023)
+- :smile_cat: AI Software Engineer Intern @[**NTQ Solution JSC**][ntq] (Summer 2023)
 
   [mhc]: https://www.mtholyoke.edu/
   [dandilyonn]: https://www.linkedin.com/company/dandilyonn/
