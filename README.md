@@ -84,15 +84,21 @@ ______________________________________________________________
 </a>
 </div>
 <style>
- div a {
-  text-decoration: none; /* Remove the underline */
-  outline: none;
-}
-
-div {
+ div {
   display: flex;
   gap: 10px; /* Adjust spacing */
   align-items: center;
+}
+
+div a {
+  text-decoration: none; /* Remove underline */
+  outline: none;
+  border: none;
+}
+
+div a img {
+  display: block; /* Prevent inline gap by making the image block-level */
+  vertical-align: middle;
 }
 
 </style>
