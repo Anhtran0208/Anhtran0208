@@ -1,7 +1,7 @@
 # Hi, I'm Anh 👋
 ---
 ## :woman_technologist: About Me
-I am a CS junior student at [**Mount Holyoke College**][mhc]. I began learning the very first line of code during the first winter break in 2022 by self-studying an online course from Udemy. After five months, I successfully landed two SWE internships in my freshman year. Although they are unpaid, I learned a lot, and they helped me know what I will be doing and what I want to do with my CS degree.
+I am a CS senior student at [**Mount Holyoke College**][mhc]. I began learning the very first line of code during the first winter break in 2022 by self-studying an online course from Udemy. After five months, I successfully landed two SWE internships in my freshman year. Although they are unpaid, I learned a lot, and they helped me know what I will be doing and what I want to do with my CS degree.
 
 ## :office: Work experience 
 ### :school: On-campus jobs 
