@@ -1,13 +1,11 @@
 # Hi, I'm Anh 👋
 ---
 ## :woman_technologist: About Me
-I am a CS senior student at [**Mount Holyoke College**][mhc]. I began learning the very first line of code during the first winter break in 2022 by self-studying an online course from Udemy. After five months, I successfully landed two SWE internships in my freshman year. Although they are unpaid, I learned a lot, and they helped me know what I will be doing and what I want to do with my CS degree.
+I'm currently a software engineer at Robinhood. Previously, I studied CS at [**Mount Holyoke College**][mhc]. I began learning the very first line of code during the first winter break in 2022 by self-studying an online course from Udemy. After five months, I successfully landed two SWE internships in my freshman year. Although they are unpaid, I learned a lot, and they helped me know what I will be doing and what I want to do with my CS degree.
 
 ## :office: Work experience 
-### :school: On-campus jobs 
-- 😽 Technical Support Assistant @[**Mount Holyoke College**][mhc]
-- 😽 Mathematics Teaching Assistant @[**Mount Holyoke College**][mhc] - Courses: Discrete Math (Fall 2024, Spring 2025), Intro to Proof (Spring 2024)
-- 😽 Computer Science Teaching Assistant @[**Mount Holyoke College**][mhc] - Course: Data Structures (Fall 2023, Spring 2024)
+### :computer: Full-time jobs
+- 😸: Software Engineer @[**Robinhood**][robinhood] (Feb 2026 - Present)
 ### :computer: Internships 
 - :smile_cat: Software Engineer Intern @[**Robinhood**][robinhood] (Summer 2025)
 - :smile_cat: Software Engineer Intern @[**ENSCO Inc**][ensco] (Summer 2024)
@@ -20,6 +18,10 @@ I am a CS senior student at [**Mount Holyoke College**][mhc]. I began learning t
   [ntq]: https://www.linkedin.com/company/ntq-solution-jsc/
   [ensco]: https://www.linkedin.com/company/ensco-inc/
   [robinhood]: https://robinhood.com/us/en/
+### :school: On-campus jobs 
+- 😽 Technical Support Assistant @[**Mount Holyoke College**][mhc]
+- 😽 Mathematics Teaching Assistant @[**Mount Holyoke College**][mhc] - Courses: Discrete Math (Fall 2024, Spring 2025), Intro to Proof (Spring 2024)
+- 😽 Computer Science Teaching Assistant @[**Mount Holyoke College**][mhc] - Course: Data Structures (Fall 2023, Spring 2024)
 ---
 ## :computer:	Skills
 <h3 align="left">Languages:</h3>
