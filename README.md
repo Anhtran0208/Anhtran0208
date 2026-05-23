@@ -64,14 +64,6 @@ I'm currently a software engineer at Robinhood. Previously, I studied CS at [**M
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>
 </div>
-
-## :fire: Github Contribution
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anhtran0208&show_icons=true&locale=en&layout=compact" alt="anhtran" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anhtran0208&show_icons=true&locale=en" alt="anhtran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anhtran0208&" alt="anhtran" /></p>
-
 ______________________________________________________________
 
 <p align="center">
