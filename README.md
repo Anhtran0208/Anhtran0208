@@ -64,8 +64,7 @@ I'm currently a software engineer at Robinhood. Previously, I studied CS at [**M
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>
 </div>
-______________________________________________________________
-
+---
 <p align="center">
     <b>Looking for NG SWE? Connect with me</a>
     </b>
